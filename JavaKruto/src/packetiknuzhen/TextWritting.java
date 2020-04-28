@@ -24,10 +24,11 @@ public class TextWritting extends JFrame{
 	static JLabel texthere;
 	static JLabel emptyspace;
 
+	
 	public static void main (String [] args) throws Exception {
 		
 		JFrame okno=new JFrame ("Редактор текста");
-		okno.setSize(640, 500);
+		okno.setSize(630, 500);
 		
 		JPanel x = new JPanel ();
 		
