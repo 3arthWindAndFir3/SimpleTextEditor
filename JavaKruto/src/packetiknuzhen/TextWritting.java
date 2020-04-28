@@ -23,7 +23,7 @@ public class TextWritting extends JFrame{
 	static JLabel filename;
 	static JLabel texthere;
 	static JLabel emptyspace;
-	
+	//aaaaaaaaaaaaa
 
 	public static void main (String [] args) throws Exception {
 		
