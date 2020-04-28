@@ -38,7 +38,7 @@ public class TextWritting extends JFrame{
 		
 	    JTextArea textfield2=new JTextArea(22,50);
 	    
-	    JButton savebutton=new JButton ("Сохранить в <<Документы>>");
+	    JButton savebutton=new JButton ("Сохранить в «Мои документы»");
 	    
 	    
 	    savebutton.addActionListener(new ActionListener() { // обработка нажатия кнопки схоранить
